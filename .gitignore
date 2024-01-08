@@ -1,0 +1,10 @@
+*.class
+*.log
+.ammonite/
+.bloop/
+.metals/
+.vscode/
+out/
+project/
+target/
+old/
